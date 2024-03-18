@@ -171,7 +171,8 @@ plt.imshow(img_28_gray_inverted_scaled.reshape(28,28),cmap='gray')
 
 ### New Sample Data Prediction
 
-![image](https://github.com/KANISHKAR2607/mnist-classification/assets/118886772/15699900-2120-4f45-9388-e5588ecabc52)
+![image](https://github.com/KANISHKAR2607/mnist-classification/assets/118886772/88fb0557-dd59-44b7-934c-319226be9bef)
+
 
 
 ## RESULT
