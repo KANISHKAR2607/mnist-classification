@@ -152,21 +152,25 @@ plt.imshow(img_28_gray_inverted_scaled.reshape(28,28),cmap='gray')
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://github.com/KANISHKAR2607/mnist-classification/assets/118886772/d62ff8a2-9df6-4b85-bdf6-395fbd37fb65)
+![image](https://github.com/KANISHKAR2607/mnist-classification/assets/118886772/751f23c6-c14c-4804-bdd8-577f3ecfb036)
 
-![image](https://github.com/KANISHKAR2607/mnist-classification/assets/118886772/aaaa6eb6-ddc6-48cd-bbc6-0908ed2f3f3e)
+
+![image](https://github.com/KANISHKAR2607/mnist-classification/assets/118886772/d7fc116f-9b88-4019-9bd6-1632c6cbe9fd)
+
 
 
 
 ### Classification Report
 
-![image](https://github.com/KANISHKAR2607/mnist-classification/assets/118886772/bec60e14-6d1a-428d-bec8-92ddc82ad7d4)
+![image](https://github.com/KANISHKAR2607/mnist-classification/assets/118886772/03d433ff-36a0-4e04-9688-e7a532f0a4f5)
+
 
 
 
 ### Confusion Matrix
 
-![image](https://github.com/KANISHKAR2607/mnist-classification/assets/118886772/4f198d3c-520e-470e-9564-0d0507de9f30)
+![image](https://github.com/KANISHKAR2607/mnist-classification/assets/118886772/1b90c4d9-06dc-480c-bd7a-4dc757b03618)
+
 
 
 ### New Sample Data Prediction
