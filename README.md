@@ -124,11 +124,11 @@ print(confusion_matrix(y_test,x_test_predictions))
 
 print(classification_report(y_test,x_test_predictions))
 
-img = image.load_img('/content/mnist2.png')
+img = image.load_img('/content/mnist1.png')
 
 type(img)
 
-img = image.load_img('/content/mnist2.png')
+img = image.load_img('/content/mnist1.png')
 img_tensor = tf.convert_to_tensor(np.asarray(img))
 img_28 = tf.image.resize(img_tensor,(28,28))
 img_28_gray_inverted = 255.0-img_28_gray
@@ -175,7 +175,8 @@ plt.imshow(img_28_gray_inverted_scaled.reshape(28,28),cmap='gray')
 
 ### New Sample Data Prediction
 
-![image](https://github.com/KANISHKAR2607/mnist-classification/assets/118886772/88fb0557-dd59-44b7-934c-319226be9bef)
+![image](https://github.com/KANISHKAR2607/mnist-classification/assets/118886772/71d55efd-863d-469f-8afa-fa9ae4623477)
+
 
 
 
