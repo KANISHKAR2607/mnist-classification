@@ -177,7 +177,9 @@ plt.imshow(img_28_gray_inverted_scaled.reshape(28,28),cmap='gray')
 
 ![image](https://github.com/KANISHKAR2607/mnist-classification/assets/118886772/71d55efd-863d-469f-8afa-fa9ae4623477)
 
+### OUTPUT
 
+![image](https://github.com/KANISHKAR2607/mnist-classification/assets/118886772/53b2c13a-3d9d-43ca-a42e-623a6ef0eb41)
 
 
 ## RESULT
